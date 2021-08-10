@@ -1,6 +1,6 @@
 # PinMyHike
 
-A Makers week 10 & 11 group project. 
+A Makers week 11 & 12 group project. 
 
 ## Repository
 
