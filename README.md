@@ -2,6 +2,13 @@
 
 A Makers week 11 & 12 group project. 
 
+## Description
+
+> INSERT ONE-LINER HERE
+
+A website with a collection of hiking experiences viewable as a pin on a map shared by others. 
+Click on a pin to highlight the route and view pictures of the hike.
+
 ## Repository
 
 [PinMyHike](https://github.com/Ashley-Slaney/PinMyHike)
@@ -15,6 +22,11 @@ A Makers week 11 & 12 group project.
 * [Cynthia Fu](https://github.com/YinnyF)
 * [Ashley Slaney](https://github.com/Ashley-Slaney)
 
+## Team Approach
+```
+INSERT ALL THE GOOD STUFF ABOUT AGILE HERE
+```
+
 ## Technology Used
 * MERN Stack (MongoDB, Express, React, Node)
 * Testing: Jest
@@ -27,6 +39,10 @@ A Makers week 11 & 12 group project.
 
 ```
 INSERT SCREENSHOTS/GIFS HERE
+[HOMEPAGE]
+[SIGN UP/IN]
+[CLICKING A PIN]
+[CREATING A PIN]
 ```
 
 ## Usage
@@ -88,5 +104,3 @@ As a user,
 So I can get an idea of how good a route is, 
 I want to be able to see ratings of pinned routes.
 ```
-
-## 
