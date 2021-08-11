@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when there is a location 1`] = `
+<div
+  className="form"
+>
+  <input
+    id="location"
+    name="location"
+    type="text"
+  />
+  <br />
+  <textarea
+    className="text-field"
+    cols="40"
+    id="description"
+    placeholder="Enter a description of your hike"
+    rows="5"
+    type="text"
+  />
+  <br />
+  <label
+    htmlFor="photo"
+  >
+    Upload a photo
+  </label>
+  <input
+    accept="image/png, image/jpeg"
+    className="btn"
+    id="photo"
+    type="file"
+  />
+  <br />
+  <button
+    className="btn"
+    type="submit"
+  >
+    Submit
+  </button>
+</div>
+`;
