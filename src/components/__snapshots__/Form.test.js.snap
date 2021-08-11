@@ -12,6 +12,16 @@ exports[`renders correctly when there are no props 1`] = `
     rows="5"
     type="text"
   />
+  <label
+    htmlFor="photo"
+  >
+    Upload a photo
+  </label>
+  <input
+    accept="image/png, image/jpeg"
+    id="photo"
+    type="file"
+  />
   <button
     className="btn"
     type="submit"
