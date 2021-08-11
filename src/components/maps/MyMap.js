@@ -9,6 +9,9 @@ function MyMap() {
   >
   <Marker
         position={{ lat: 55.378052, lng: -3.435973 }}
+        icon={{
+          url: 'https://upload.wikimedia.org/wikipedia/commons/9/93/Map_marker_font_awesome.svg',
+        }}
         />
   </GoogleMap>  
   
