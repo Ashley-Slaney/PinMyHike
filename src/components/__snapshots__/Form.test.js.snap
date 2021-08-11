@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly when there are no props 1`] = `
+<div
+  className="form"
+>
+  <textarea
+    className="text-field"
+    cols="40"
+    id="description"
+    placeholder="Enter a description of your hike"
+    rows="5"
+    type="text"
+  />
+  <button
+    className="btn"
+    type="submit"
+  >
+    Submit
+  </button>
+</div>
+`;

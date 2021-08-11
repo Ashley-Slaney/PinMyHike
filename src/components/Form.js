@@ -1,7 +1,10 @@
 export const Form = () => {
   return (
-    <div>
-      
+    <div className="form">
+      <textarea id="description" type="text" cols="40" rows="5"
+        placeholder="Enter a description of your hike" className="text-field">
+      </textarea>
+      <button type="submit" className="btn">Submit</button>
     </div>
   )
 }
