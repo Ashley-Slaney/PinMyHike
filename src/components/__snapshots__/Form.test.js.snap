@@ -26,6 +26,7 @@ exports[`renders correctly when there is a location 1`] = `
   </label>
   <input
     accept="image/png, image/jpeg"
+    className="btn"
     id="photo"
     type="file"
   />

@@ -8,7 +8,7 @@ export const Form = ({ location }) => {
       </textarea>
       <br />
       <label htmlFor="photo">Upload a photo</label>
-      <input id="photo" type="file" accept="image/png, image/jpeg" />
+      <input id="photo" className="btn" type="file" accept="image/png, image/jpeg" />
       <br />
       <button type="submit" className="btn">Submit</button>
     </div>
