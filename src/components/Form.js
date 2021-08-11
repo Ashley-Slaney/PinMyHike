@@ -7,7 +7,7 @@ export const Form = ({ location }) => {
         placeholder="Enter a description of your hike" className="text-field">
       </textarea>
       <br />
-      <label htmlFor="photo">Upload a photo </label>
+      <label htmlFor="photo">Upload a photo</label>
       <input id="photo" type="file" accept="image/png, image/jpeg" />
       <br />
       <button type="submit" className="btn">Submit</button>

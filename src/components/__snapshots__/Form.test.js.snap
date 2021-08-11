@@ -1,9 +1,15 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders correctly when there are no props 1`] = `
+exports[`renders correctly when there is a location 1`] = `
 <div
   className="form"
 >
+  <input
+    id="location"
+    name="location"
+    type="text"
+  />
+  <br />
   <textarea
     className="text-field"
     cols="40"
@@ -12,6 +18,7 @@ exports[`renders correctly when there are no props 1`] = `
     rows="5"
     type="text"
   />
+  <br />
   <label
     htmlFor="photo"
   >
@@ -22,6 +29,7 @@ exports[`renders correctly when there are no props 1`] = `
     id="photo"
     type="file"
   />
+  <br />
   <button
     className="btn"
     type="submit"
