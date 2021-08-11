@@ -1,7 +1,7 @@
-export const Form = () => {
+export const Form = ({ location }) => {
   return (
     <div className="form">
-      <input type="text" name="location" id="location" value="53.374378, -1.711401"/>
+      <input type="text" name="location" id="location" value={location} />
       <br />
       <textarea id="description" type="text" cols="40" rows="5"
         placeholder="Enter a description of your hike" className="text-field">
